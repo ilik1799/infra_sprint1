@@ -1,0 +1,5 @@
+IP: 158.160.64.22;
+name_taski: https://taski-trackhub.gotdns.ch;
+name_kittygram: https://kittygram1799.zapto.org;
+login: yc-user;
+password: 1799; 
